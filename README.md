@@ -17,7 +17,6 @@ We want to open up a surf shop that sells ice cream in Oahu, however, our invest
 
 - While June is a much better month for having a surf and ice cream shop with 73 degrees being in the 25 percentile. December also holds strong with the temperature being 69 degrees in the 25 percentile. 
 
-## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+## Summary: 
 
-After finishing the data analysis for the months of June and December, I think it’s advisable opening a surf and ice cream shop year round will be sustainable. Given the average temperature does not seem to fluctuate more than 5 degrees in either directions, you do still have the outliers with the low of 56 in for December and 64 for June. 
-The first additional query I would perform, would be to find how much precipitation the island gets during the month of June and December. Another query I would see about performing, is to find any outliers with the precipitation for their storm season. This is especially important since storms can rip through the island and cause businesses to close down.
+After finishing the data analysis for the months of June and December, I think it’s advisable opening a surf and ice cream shop year round will be sustainable. Given the average temperature does not seem to fluctuate more than 5 degrees in either directions, you do still have the outliers with the low of 56 in for December and 64 for June. The first additional query I would perform, would be to find how much precipitation the island gets during the month of June and December. Another query I would see about performing, is to find any outliers with the precipitation for their storm season. This is especially important since storms can rip through the island and cause businesses to close down.
